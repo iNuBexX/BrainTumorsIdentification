@@ -9,7 +9,6 @@ https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 # models
 
-an svm
 
 a simple cnn
 
