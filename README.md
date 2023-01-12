@@ -12,5 +12,5 @@ https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 a simple cnn
 
-a multi convolutional layer cnn
+a multi convolutional layer 
 
